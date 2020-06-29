@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ git clone 
+$ git clone git@github.com:nickahoy/realitycheck.git
 $ virtualenv venv
 $ . venv/bin/activate
 $ pip install --editable .
