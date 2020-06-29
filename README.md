@@ -1,5 +1,20 @@
 # Readme
 
+## Install
+
+```
+$ git clone 
+$ virtualenv venv
+$ . venv/bin/activate
+$ pip install --editable .
+```
+
+## Run
+
+```
+$ reality_check
+```
+
 ## Caveats
 
 **Local Property Tax** 
